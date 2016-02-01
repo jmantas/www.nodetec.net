@@ -9,7 +9,7 @@ SITEURL = 'http://www.nodetec.net'
 DEFAULT_DATE = 'fs'
 
 SITESUBTITLE = 'Civilization upgrade kit'
-METADATA = 'p2p, futurology, distributed, blockchain, decentralized, trustless, permissionless, third industrial revolution, post scarcity, artificial inteligence'
+METADATA = 'p2p, futurology, distributed, blockchain, decentralized, trustless, permissionless, third industrial revolution, post scarcity, artificial inteligence, DAO, m2m'
 PATH = 'content'
 
 TIMEZONE = 'Europe/Vilnius'

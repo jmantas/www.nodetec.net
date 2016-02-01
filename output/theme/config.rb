@@ -14,5 +14,5 @@ images_dir = "/img"
 fonts_dir = "/fonts"
 
 line_comments = false
-output_style = :compressed
-# output_style = :expanded
+#output_style = :compressed
+output_style = :expanded
